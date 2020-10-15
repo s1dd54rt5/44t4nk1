@@ -2,7 +2,7 @@
 
 
 - <img src="https://i.stack.imgur.com/pfM2R.gif" width=25 height=25><strong> I’m currently working on Flutter 📱, Firebase 🔥 and Figma 🧚<br>
-- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=30 height=30>I’m currently learning NodeJS 🚀<br>
+- <img src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg" width=30 height=30>I’m currently learning Go 🚀<br>
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> I’m looking to collaborate on some cool project ideas<br>
 - 💬 Ask me about Flutter and UI Design <br>
 - 😄 Pronouns: App Developer<br>

@@ -35,8 +35,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/siddharth-singh-5
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>NodeJS</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+        <span><strong>Go</strong></span><br><br><br>
+        <img height="64px" src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/08/golang-header.jpg?w=2500&quality=82&strip=all&ssl=1">
       </td>
     </tr>
     <tr valign="top">

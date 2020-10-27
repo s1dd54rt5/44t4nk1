@@ -11,9 +11,9 @@
 
 
 
-Invite me to connect on [LinkedIn](https://www.linkedin.com/in/siddharth-singh-539a581a4).<hr>
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/44t4nk1/).<hr>
 [![Twitter Follow](https://img.shields.io/twitter/follow/44T4NK1?style=social)](https://twitter.com/44T4NK1)
- [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_thekingbeyondthewall_/)
+ [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/44t4nk1/)
 
 
 

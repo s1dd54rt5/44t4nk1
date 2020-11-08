@@ -65,6 +65,3 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/44t4nk1/).<hr>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44t4nk1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/44t4nk1/count.svg) people to checkout my profile :heart:
-
-<br>

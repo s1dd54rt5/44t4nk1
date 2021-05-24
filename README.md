@@ -61,6 +61,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/44t4nk1/).<hr>
   </tbody>
 </table>
 
+![Siddharth's Github](https://github-readme-streak-stats.herokuapp.com/?user=44t4nk1&theme=radical)
+
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=44t4nk1&show_icons=true&hide_border=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44t4nk1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -31,8 +31,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/44t4nk1/).<hr>
         <img height="64px" src="https://www.brandeps.com/logo-download/F/Firebase-logo-vector-02.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span><strong>Swift</strong></span><br><br><br>
+        <img height="64px" src="https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Go</strong></span><br><br><br>

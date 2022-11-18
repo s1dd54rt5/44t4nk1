@@ -45,8 +45,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/44t4nk1/).<hr>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Adobe XD</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
+        <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://camo.githubusercontent.com/13dab343af62a5dbed682724bf0985e6b5261a23d0be14c9015d43405daa2f6b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6177732e737667">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>

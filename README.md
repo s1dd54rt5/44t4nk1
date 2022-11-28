@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-- <img src="https://i.stack.imgur.com/pfM2R.gif" width=25 height=25><strong> I’m currently working on Flutter 📱, Firebase 🔥 and Figma 🧚<br>
+- <img src="https://i.stack.imgur.com/pfM2R.gif" width=25 height=25><strong> I’m currently working on Swift, Flutter 📱, Firebase 🔥 and Figma 🧚<br>
 - <img src="https://miro.medium.com/max/1000/1*vHUiXvBE0p0fLRwFHZuAYw.gif" width=30 height=30>I’m currently learning Go 🚀<br>
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> I’m looking to collaborate on some cool project ideas<br>
-- 💬 Ask me about Flutter and UI Design <br>
+- 💬 Ask me about Swift, Flutter and UI Design <br>
 - 😄 Pronouns: App Developer<br>
-- ⚡ Fun fact: My code is Luck Based</strong><br>
 - 📫 You can reach me on: 
 
 
